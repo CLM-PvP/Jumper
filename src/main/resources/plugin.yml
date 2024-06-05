@@ -1,0 +1,4 @@
+name: Jumper
+version: '1.0'
+main: de.clmpvp.jumper.Jumper
+authors: [CLM-PvP]
